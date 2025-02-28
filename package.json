@@ -59,10 +59,10 @@
     "build": "svelte-package"
   },
   "dependencies": {
-    "@krozamdev/masked-password": "^1.0.0"
+    "@krozamdev/masked-password": "^1.1.5"
   },
   "peerDependencies": {
-    "@krozamdev/masked-password": "^1.0.0",
+    "@krozamdev/masked-password": "^1.1.5",
     "svelte": "^4.0.0"
   },
   "devDependencies": {
