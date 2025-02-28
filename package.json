@@ -1,6 +1,6 @@
 {
   "name": "@krozamdev/svelte-masked-password",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The InputMaskingPassword component is a password input field that includes masking functionality (hiding characters as the user types) and allows toggling to show or hide the password. It uses the @krozamdev/masked-password library to apply the masking and supports custom mask characters. The component also handles password input changes by passing the raw (unmasked) value via a callback function.",
   "repository": {
     "type": "git",
@@ -59,10 +59,10 @@
     "build": "svelte-package"
   },
   "dependencies": {
-    "@krozamdev/masked-password": "^1.0.0"
+    "@krozamdev/masked-password": "^1.1.5"
   },
   "peerDependencies": {
-    "@krozamdev/masked-password": "^1.0.0",
+    "@krozamdev/masked-password": "^1.1.5",
     "svelte": "^4.0.0"
   },
   "devDependencies": {
